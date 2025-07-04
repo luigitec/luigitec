@@ -5,6 +5,8 @@
 💼 **Open to Work** — let’s build something impactful together!
 [![LinkedIn: luigitec](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/luigitec/)
 
+📍 Mexico - TN Visa or as a Contractor with Deel
+
 ---
 
 ### 🛠️ Professional Stack
