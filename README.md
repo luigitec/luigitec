@@ -28,6 +28,10 @@
 
 ---
 
+### Other Github Account
+
+- https://github.com/luisfranco (For commit history prior 2022)
+
 🚀  I'm always leveling up my skills, learning from every challenge, and helping others grow. I believe in clean code, knowledge sharing, and building things that matter.
 
 📫 [Let’s connect!](https://www.linkedin.com/in/luigitec/) Whether it’s code, ideas, or collaboration, I’m always open to new opportunities and discussions.
