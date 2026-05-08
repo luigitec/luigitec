@@ -24,7 +24,7 @@
 
 - **[Justia](https://www.justia.com/):** 2010 - 2022 (Hybrid full time position) / Software Developer
 - **DevOps:** 2022 - 2022 (Remote full time position) / DevOps
-- **[Jobscan](https://www.jobscan.co/):** 2022 - 2025 (Remote full time position) / FullStack Software Engineer
+- **[Jobscan](https://www.jobscan.co/):** 2022 - Present (Remote full time position) / FullStack Software Engineer
 
 ---
 
